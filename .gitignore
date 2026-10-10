@@ -1,0 +1,20 @@
+## .NET Core / C#
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+.vs/
+.vscode/
+.idea/
+
+## Build outputs
+*.exe
+*.dll
+*.pdb
+*.json.bak
+test_*.dat
+test_*.json
+output/
+dist/
